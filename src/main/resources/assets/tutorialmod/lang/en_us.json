@@ -1,0 +1,21 @@
+{
+  "item.tutorialmod.sapphire": "Sapphire",
+  "item.tutorialmod.raw_sapphire": "Raw Sapphire",
+
+  "item.tutorialmod.metal_detector": "Metal Detector",
+
+  "item.tutorialmod.strawberry": "Strawberry",
+
+  "item.tutorialmod.pine_cone": "Pine Cone",
+
+  "block.tutorialmod.sapphire_block": "Block of Sapphire",
+  "block.tutorialmod.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "block.tutorialmod.sound_block": "Sound Block",
+
+  "block.tutorialmod.sapphire_ore": "Sapphire Ore",
+
+  "block.tutorialmod.metal_detector_tooltip": "Finds valuables underground!",
+
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+}
